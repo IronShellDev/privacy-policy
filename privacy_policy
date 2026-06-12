@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Privacy Policy – Tradesman's Calc Pro</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 24px 60px;
+      color: #222;
+      line-height: 1.7;
+    }
+    h1 { font-size: 1.8em; margin-bottom: 4px; }
+    h2 { font-size: 1.2em; margin-top: 32px; border-bottom: 1px solid #ddd; padding-bottom: 6px; }
+    p, li { font-size: 0.97em; }
+    ul { padding-left: 20px; }
+    .updated { color: #666; font-size: 0.88em; margin-bottom: 32px; }
+    a { color: #0066cc; }
+  </style>
+</head>
+<body>
+
+  <h1>Privacy Policy – Tradesman's Calc Pro</h1>
+  <p class="updated">Last updated: June 6, 2026</p>
+
+  <p>
+    Tradesman's Calc Pro ("the App", "we", "us", or "our") is a mobile application
+    developed for tradespeople and construction professionals. This Privacy Policy explains
+    what information we collect, how we use it, and your rights regarding that information.
+  </p>
+
+  <h2>1. Information We Collect</h2>
+  <p>
+    <strong>We do not collect, store, or transmit any personally identifiable information.</strong>
+    The App functions entirely on your device. No account registration is required to use the App.
+  </p>
+  <p>The only data stored by the App is:</p>
+  <ul>
+    <li><strong>Purchase records</strong> — which in-app modules you have unlocked, stored locally
+        on your device using your device's standard storage. This data never leaves your device.</li>
+    <li><strong>User preferences</strong> — settings such as unit preferences, stored locally
+        on your device.</li>
+  </ul>
+
+  <h2>2. In-App Purchases</h2>
+  <p>
+    The App offers optional one-time in-app purchases to unlock individual calculator modules
+    or a bundle of all modules. All purchase transactions are processed entirely by Apple
+    (App Store) or Google (Google Play) through their respective payment systems. We do not
+    receive, process, or store your payment information. Please refer to Apple's or Google's
+    privacy policies for information on how they handle your payment and billing data.
+  </p>
+
+  <h2>3. Third-Party Services</h2>
+  <p>
+    The App uses the following platform services:
+  </p>
+  <ul>
+    <li><strong>Apple App Store / Google Play Billing</strong> — for processing in-app purchases.
+        These services are governed by Apple's and Google's respective privacy policies.</li>
+  </ul>
+  <p>
+    We do not integrate any third-party analytics, advertising, crash reporting, or tracking SDKs.
+  </p>
+
+  <h2>4. Data Sharing</h2>
+  <p>
+    We do not sell, trade, rent, or share any user data with third parties. Because we do not
+    collect personal information, there is no personal data for us to share.
+  </p>
+
+  <h2>5. Children's Privacy</h2>
+  <p>
+    The App is intended for use by adults and working professionals. We do not knowingly collect
+    any information from children under the age of 13. If you believe a child has provided
+    personal information through the App, please contact us so we can address it.
+  </p>
+
+  <h2>6. Data Security</h2>
+  <p>
+    Since all data is stored locally on your device and we collect no personal information,
+    the security of your data is governed by your device's own security features (passcode,
+    biometric lock, encryption). We recommend keeping your device's operating system up to date.
+  </p>
+
+  <h2>7. Your Rights</h2>
+  <p>
+    Since we do not collect or store personal data on our servers, there is no personal data
+    for us to access, correct, export, or delete on your behalf. All locally stored data
+    (purchase records and preferences) can be cleared by uninstalling the App from your device.
+  </p>
+
+  <h2>8. Changes to This Privacy Policy</h2>
+  <p>
+    We may update this Privacy Policy from time to time. Any changes will be posted on this
+    page with an updated date. We encourage you to review this policy periodically. Continued
+    use of the App after changes constitutes acceptance of the updated policy.
+  </p>
+
+  <h2>9. Contact Us</h2>
+  <p>
+    If you have any questions or concerns about this Privacy Policy, please contact us at:<br />
+    <a href="mailto:disastrexx@gmail.com">disastrexx@gmail.com</a>
+  </p>
+
+</body>
+</html>
